@@ -1,0 +1,6 @@
+echo "# Air-Raptor" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/1958-raptor/Air-Raptor.git
+git push -u origin master
